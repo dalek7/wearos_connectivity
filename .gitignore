@@ -10,6 +10,21 @@
 # Java class files
 *.class
 
+# seung
+data/
+.DS_Store
+.DS_Store/
+.idea/
+.idea
+
+__pycache__/
+__*/
+
+__pycache__/
+__*/
+*.py[cd]
+
+
 # Generated files
 bin/
 gen/
