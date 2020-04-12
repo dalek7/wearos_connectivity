@@ -3,8 +3,8 @@ Smartwatch 등에서 Network를 사용하려고 하면, 끊기는 연결(특히 
 테스트 완료. <br/>
 느낌 성공적..
 ## Screenshot
-<img src='screenshots/screen1.png' /><br/>
-<img src='screenshots/screen3.png' />
+<img src='screenshots/screen1.png' width=300px/> 
+<img src='screenshots/screen3.png' width=300px/>
 
 ## References
 * WearHighBandwidthNetworking
